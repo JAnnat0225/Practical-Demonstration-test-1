@@ -1,0 +1,45 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.nav{
+     background-color: rgb(156, 246, 246);
+}
+.nav:hover{
+    background-color: rgb(188, 208, 208);}
+.nav-item a:hover{
+    background-color: rgb(76, 238, 241);
+    border-radius: 5px;
+}
+.cart{
+    color: blue;
+}
+.hv img{
+    height: 500px;
+    transition: 4.0s;
+}
+.hv:hover{
+    transform: scale(1.1);
+}
+.s{
+    color: goldenrod;
+}
+.list{
+    padding: 5px;
+    width: 400px;
+    height: 200px;
+    margin-top: 20px;
+    background-color: rgb(166, 199, 228);
+    border-radius: 20px;
+   
+}
+.list:hover{
+    background-color: rgb(25, 168, 168);
+}
+.child{
+    margin-top: 30px;
+}
+
+
